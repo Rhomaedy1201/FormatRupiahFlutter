@@ -1,6 +1,6 @@
 Cara Membuat Format Rupiah menggunakan Flutter
 #Contoh
-
+<pre>
 import 'package:intl/intl.dart';
 
 class FormatCurrency {
@@ -31,3 +31,5 @@ class FormatCurrency {
 // hasil formatRp : Rp 1.000.000,00
 // hasil formatNotRp : 1.000.000,00
 // hasil jika menggunakan 0 : 1.000.000
+
+</pre>
